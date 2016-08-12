@@ -1,0 +1,2 @@
+# libcop
+Cache Operations Library
